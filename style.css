@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(246, 231, 216);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(246, 137, 137);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(246, 137, 137);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
+
+hr {
+    height: 1px;
+    background-color: rgb(198, 93, 123);
+    border: none;
+}
+
